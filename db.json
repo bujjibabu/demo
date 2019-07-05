@@ -304,5 +304,14 @@
       "otherInfo": "Omschrijving",
       "status": true
     }
-  ]
+  ],
+  "profileInfo" : {
+    "id": 1,
+    "name": "Florence Nightingale",
+    "studentNo": "123456",
+    "dob": "05 juli 2000",
+    "mobile": "+12 34-56789000",
+    "alternativeMobile": "+12 4356-789000",
+    "email": "noreply@abc.nl"
+  }
 }
