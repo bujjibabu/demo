@@ -305,7 +305,7 @@
       "status": true
     }
   ],
-  "profileInfo" : {
+  "profileInfo": {
     "id": 1,
     "name": "Florence Nightingale",
     "studentNo": "123456",
@@ -313,5 +313,12 @@
     "mobile": "+12 34-56789000",
     "alternativeMobile": "+12 4356-789000",
     "email": "noreply@abc.nl"
-  }
+  },
+  "savedTokens": [
+    {
+      "name": "userid",
+      "token": "csQb_QV783E:APA91bHB1gkoYB3KkDglv0DUqZYb3GTl661T7FMc5FhQfiiuSr8c1brVXXFp2JUwhMEGWIuRqb7gWRF53fgLUSF3sSWQOc70lFtCMMLpqYJtXuZFXxzz85C8xJ1MJYFp4tPyUl7uxInJ",
+      "id": 1
+    }
+  ]
 }
