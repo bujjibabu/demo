@@ -118,7 +118,7 @@
     }
   ]
 },
-  "profileinfo" : 'profileinfo': {
+  "profileinfo" : {
     "achternaam": "BOMB",
     "geboortedatum": "1990-01-01",
     "toepassingGeboortedatum": "Geboortejaar",
