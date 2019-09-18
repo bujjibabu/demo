@@ -111,5 +111,56 @@
                 }
             }
         ]
+    },
+    "messages": {
+        "items": [
+            {
+                "$type": "dashboard.RSelfServiceBericht",
+                "additionalObjects": {},
+                "begindatum": "2019-09-13T00:00:00.000Z",
+                "titel": "Test Message1",
+                "bericht": "this is test message 1"
+            },
+            {
+                "$type": "dashboard.RSelfServiceBericht",
+                "begindatum": "2019-09-16T00:00:00.000Z",
+                "titel": "Global Message 5",
+                "bericht": "This is testing message 5"
+            },
+            {
+                "$type": "dashboard.RSelfServiceBericht",
+                "begindatum": "2019-09-15T00:00:00.000Z",
+                "titel": "Global Message 4",
+                "bericht": "This is testing message 4"
+            },
+            {
+                "$type": "dashboard.RSelfServiceBericht",
+                "begindatum": "2019-09-13T00:00:00.000Z",
+                "titel": "Stage update testing",
+                "bericht": "This is&nbsp;Stage update testing."
+            },
+            {
+                "$type": "dashboard.RSelfServiceBericht",
+                "begindatum": "2019-09-13T00:00:00.000Z",
+                "titel": "Global Message 3",
+                "bericht": "This is global message 3 for testing.",
+                "afzender": "GRR"
+            },
+            {
+                "$type": "dashboard.RSelfServiceBericht",
+                "begindatum": "2019-09-16T00:00:00.000Z",
+                "einddatumExclusief": "2019-10-01T00:00:00.000Z",
+                "titel": "Global Message2 for demo",
+                "bericht": "This another testing global message.",
+                "afzender": "GRR"
+            },
+            {
+                "$type": "dashboard.RSelfServiceBericht",
+                "begindatum": "2019-09-13T00:00:00.000Z",
+                "titel": "Global Test Message",
+                "bericht": "Sample global message for demo.",
+                "afzender": "GRR"
+            }
+        ]
     }
 }
