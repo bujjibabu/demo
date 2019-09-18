@@ -1,5 +1,5 @@
 {
-  studentInfo: {
+  "studentInfo" : {
   "items": [
     {
       "$type": "persoon.RDeelnemer",
