@@ -117,5 +117,94 @@
       "deelnemernummer": 1041006
     }
   ]
+},
+  "profileinfo" : 'profileinfo': {
+    "achternaam": "BOMB",
+    "geboortedatum": "1990-01-01",
+    "toepassingGeboortedatum": "Geboortejaar",
+    "geslacht": "Vrouw",
+    "adressen": [
+        {
+            "begindatum": "2019-09-12T00:00:00.000Z",
+            "straat": "Langenberglaan",
+            "plaats": "EDE",
+            "postcode": "6711HK",
+            "huisnummer": "12",
+            "huisnummerToevoeging": "B",
+            "geheim": false,
+            "fysiekadres": false,
+            "postadres": false,
+            "gbaAdres": false,
+            "factuuradres": true
+        },
+        {
+            "begindatum": "2019-09-12T00:00:00.000Z",
+            "straat": "Langenberglaan",
+            "plaats": "EDE",
+            "postcode": "6711HK",
+            "huisnummer": "12",
+            "huisnummerToevoeging": "A",
+            "geheim": false,
+            "fysiekadres": true,
+            "postadres": false,
+            "gbaAdres": false,
+            "factuuradres": false
+        },
+        {
+            "begindatum": "2019-09-12T00:00:00.000Z",
+            "straat": "Langenberglaan",
+            "plaats": "EDE",
+            "postcode": "6711HK",
+            "huisnummer": "12",
+            "huisnummerToevoeging": "C",
+            "geheim": false,
+            "fysiekadres": false,
+            "postadres": true,
+            "gbaAdres": false,
+            "factuuradres": false
+        }
+    ],
+    "contactgegevens": [
+        {
+            "contactgegeven": "9856548596",
+            "soortContactgegeven": {
+                "code": "T1",
+                "naam": "Telefoon-1",
+                "typeContactgegeven": "Telefoon",
+                "selfServiceModus": "AlleenTonen",
+                "prioriteit": 1
+            }
+        },
+        {
+            "contactgegeven": "74582658956",
+            "soortContactgegeven": {
+                "code": "T2",
+                "naam": "Telefoon-2",
+                "typeContactgegeven": "Mobieltelefoon",
+                "selfServiceModus": "AlleenTonen",
+                "prioriteit": 2
+            }
+        },
+        {
+            "contactgegeven": "testmail2@abc.com",
+            "soortContactgegeven": {
+                "code": "Schoolmail",
+                "naam": "Schoolmail",
+                "typeContactgegeven": "Email",
+                "selfServiceModus": "TonenEnBewerken",
+                "prioriteit": 1
+            }
+        },
+        {
+            "contactgegeven": "testmail3@abc.com",
+            "soortContactgegeven": {
+                "code": "Officemail",
+                "naam": "Officemail",
+                "typeContactgegeven": "Email",
+                "selfServiceModus": "TonenEnBewerken",
+                "prioriteit": 1
+            }
+        }
+    ]
 }
 }
