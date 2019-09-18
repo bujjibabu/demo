@@ -167,27 +167,6 @@
         "items": [
             {
                 "$type": "dll.RStudieTaak",
-                "links": [
-                    {
-                        "id": 9223241778687481413,
-                        "rel": "self",
-                        "type": "dll.RStudieTaak",
-                        "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/studietaak/9223241778687481413"
-                    }
-                ],
-                "permissions": [
-                    {
-                        "full": "dll.RStudieTaak:READ:INSTANCE(9223241778687481413)",
-                        "type": "dll.RStudieTaak",
-                        "operations": [
-                            "READ"
-                        ],
-                        "instances": [
-                            "INSTANCE(9223241778687481413)"
-                        ]
-                    }
-                ],
-                "additionalObjects": {},
                 "titel": "Nieuwe taak4",
                 "beschrijving": "<p>task test4</p>",
                 "volgnummer": 1,
@@ -201,27 +180,6 @@
             },
             {
                 "$type": "dll.RStudieTaak",
-                "links": [
-                    {
-                        "id": 9223241778687481412,
-                        "rel": "self",
-                        "type": "dll.RStudieTaak",
-                        "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/studietaak/9223241778687481412"
-                    }
-                ],
-                "permissions": [
-                    {
-                        "full": "dll.RStudieTaak:READ:INSTANCE(9223241778687481412)",
-                        "type": "dll.RStudieTaak",
-                        "operations": [
-                            "READ"
-                        ],
-                        "instances": [
-                            "INSTANCE(9223241778687481412)"
-                        ]
-                    }
-                ],
-                "additionalObjects": {},
                 "titel": "Nieuwe taak",
                 "beschrijving": "<p>test task three</p>",
                 "volgnummer": 1,
@@ -234,27 +192,6 @@
             },
             {
                 "$type": "dll.RStudieTaak",
-                "links": [
-                    {
-                        "id": 9223241778687481411,
-                        "rel": "self",
-                        "type": "dll.RStudieTaak",
-                        "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/studietaak/9223241778687481411"
-                    }
-                ],
-                "permissions": [
-                    {
-                        "full": "dll.RStudieTaak:READ:INSTANCE(9223241778687481411)",
-                        "type": "dll.RStudieTaak",
-                        "operations": [
-                            "READ"
-                        ],
-                        "instances": [
-                            "INSTANCE(9223241778687481411)"
-                        ]
-                    }
-                ],
-                "additionalObjects": {},
                 "titel": "Nieuwe taak2",
                 "beschrijving": "<p>test task two</p>",
                 "volgnummer": 1,
@@ -268,27 +205,6 @@
             },
             {
                 "$type": "dll.RStudieTaak",
-                "links": [
-                    {
-                        "id": 9223241778687481410,
-                        "rel": "self",
-                        "type": "dll.RStudieTaak",
-                        "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/studietaak/9223241778687481410"
-                    }
-                ],
-                "permissions": [
-                    {
-                        "full": "dll.RStudieTaak:READ:INSTANCE(9223241778687481410)",
-                        "type": "dll.RStudieTaak",
-                        "operations": [
-                            "READ"
-                        ],
-                        "instances": [
-                            "INSTANCE(9223241778687481410)"
-                        ]
-                    }
-                ],
-                "additionalObjects": {},
                 "titel": "Nieuwe taak",
                 "beschrijving": "<p>test task one</p>",
                 "volgnummer": 1,
