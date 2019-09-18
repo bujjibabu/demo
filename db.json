@@ -118,5 +118,203 @@
     }
   ]
 },
- 'profileinfo': {"$type":"persoon.RPersoon","links":[{"id":9223241778686951000,"rel":"self","type":"persoon.RPersoon","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410"}],"permissions":[{"full":"persoon.RPersoon:READ:INSTANCE(9223241778686951410)","type":"persoon.RPersoon","operations":["READ"],"instances":["INSTANCE(9223241778686951410)"]}],"additionalObjects":{},"achternaam":"BOMB","geboortedatum":"1990-01-01","toepassingGeboortedatum":"Geboortejaar","geslacht":"Vrouw","adressen":[{"$type":"persoon.RAdres","links":[{"id":9223241778686959000,"rel":"self","type":"persoon.RAdres","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/adressen/9223241778686958410"},{"id":9223241778686958000,"rel":"koppeling","type":"persoon.RAdres"}],"permissions":[{"full":"persoon.RAdres:READ:INSTANCE(9223241778686958410)","type":"persoon.RAdres","operations":["READ"],"instances":["INSTANCE(9223241778686958410)"]}],"additionalObjects":{},"begindatum":"2019-09-12T00:00:00.000Z","straat":"Langenberglaan","plaats":"EDE","postcode":"6711HK","huisnummer":"12","huisnummerToevoeging":"B","land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31},"geheim":false,"fysiekadres":false,"postadres":false,"gbaAdres":false,"factuuradres":true},{"$type":"persoon.RAdres","links":[{"id":9223241778687487000,"rel":"self","type":"persoon.RAdres","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/adressen/9223241778687487410"},{"id":9223241778687486000,"rel":"koppeling","type":"persoon.RAdres"}],"permissions":[{"full":"persoon.RAdres:READ:INSTANCE(9223241778687487410)","type":"persoon.RAdres","operations":["READ"],"instances":["INSTANCE(9223241778687487410)"]}],"additionalObjects":{},"begindatum":"2019-09-12T00:00:00.000Z","straat":"Langenberglaan","plaats":"EDE","postcode":"6711HK","huisnummer":"12","huisnummerToevoeging":"A","land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31},"geheim":false,"fysiekadres":true,"postadres":false,"gbaAdres":false,"factuuradres":false},{"$type":"persoon.RAdres","links":[{"id":9223241778687487000,"rel":"self","type":"persoon.RAdres","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/adressen/9223241778687487411"},{"id":9223241778687486000,"rel":"koppeling","type":"persoon.RAdres"}],"permissions":[{"full":"persoon.RAdres:READ:INSTANCE(9223241778687487411)","type":"persoon.RAdres","operations":["READ"],"instances":["INSTANCE(9223241778687487411)"]}],"additionalObjects":{},"begindatum":"2019-09-12T00:00:00.000Z","straat":"Langenberglaan","plaats":"EDE","postcode":"6711HK","huisnummer":"12","huisnummerToevoeging":"C","land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31},"geheim":false,"fysiekadres":false,"postadres":true,"gbaAdres":false,"factuuradres":false}],"contactgegevens":[{"$type":"persoon.RPersoonContactgegeven","links":[{"id":9223241778687485000,"rel":"self","type":"persoon.RPersoonContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/contactgegeven/9223241778687485410"}],"permissions":[{"full":"persoon.RPersoonContactgegeven:READ,UPDATE,DELETE:INSTANCE(9223241778687485410)","type":"persoon.RPersoonContactgegeven","operations":["READ","UPDATE","DELETE"],"instances":["INSTANCE(9223241778687485410)"]}],"additionalObjects":{},"contactgegeven":"9856548596","soortContactgegeven":{"$type":"persoon.RSoortContactgegeven","links":[{"id":9223241778682920000,"rel":"self","type":"persoon.RSoortContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/soortcontactgegeven/9223241778682920053"}],"permissions":[{"full":"persoon.RSoortContactgegeven:READ:INSTANCE(9223241778682920053)","type":"persoon.RSoortContactgegeven","operations":["READ"],"instances":["INSTANCE(9223241778682920053)"]}],"additionalObjects":{},"code":"T1","naam":"Telefoon-1","typeContactgegeven":"Telefoon","selfServiceModus":"AlleenTonen","prioriteit":1},"land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31}},{"$type":"persoon.RPersoonContactgegeven","links":[{"id":9223241778687485000,"rel":"self","type":"persoon.RPersoonContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/contactgegeven/9223241778687485411"}],"permissions":[{"full":"persoon.RPersoonContactgegeven:READ,UPDATE,DELETE:INSTANCE(9223241778687485411)","type":"persoon.RPersoonContactgegeven","operations":["READ","UPDATE","DELETE"],"instances":["INSTANCE(9223241778687485411)"]}],"additionalObjects":{},"contactgegeven":"74582658956","soortContactgegeven":{"$type":"persoon.RSoortContactgegeven","links":[{"id":9223241778682920000,"rel":"self","type":"persoon.RSoortContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/soortcontactgegeven/9223241778682920055"}],"permissions":[{"full":"persoon.RSoortContactgegeven:READ:INSTANCE(9223241778682920055)","type":"persoon.RSoortContactgegeven","operations":["READ"],"instances":["INSTANCE(9223241778682920055)"]}],"additionalObjects":{},"code":"T2","naam":"Telefoon-2","typeContactgegeven":"Mobieltelefoon","selfServiceModus":"AlleenTonen","prioriteit":2},"land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31}},{"$type":"persoon.RPersoonContactgegeven","links":[{"id":9223241778687485000,"rel":"self","type":"persoon.RPersoonContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/contactgegeven/9223241778687485413"}],"permissions":[{"full":"persoon.RPersoonContactgegeven:READ,UPDATE,DELETE:INSTANCE(9223241778687485413)","type":"persoon.RPersoonContactgegeven","operations":["READ","UPDATE","DELETE"],"instances":["INSTANCE(9223241778687485413)"]}],"additionalObjects":{},"contactgegeven":"testmail2@abc.com","soortContactgegeven":{"$type":"persoon.RSoortContactgegeven","links":[{"id":9223241778687488000,"rel":"self","type":"persoon.RSoortContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/soortcontactgegeven/9223241778687488410"}],"permissions":[{"full":"persoon.RSoortContactgegeven:READ:INSTANCE(9223241778687488410)","type":"persoon.RSoortContactgegeven","operations":["READ"],"instances":["INSTANCE(9223241778687488410)"]}],"additionalObjects":{},"code":"Schoolmail","naam":"Schoolmail","typeContactgegeven":"Email","selfServiceModus":"TonenEnBewerken","prioriteit":1}},{"$type":"persoon.RPersoonContactgegeven","links":[{"id":9223241778687485000,"rel":"self","type":"persoon.RPersoonContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/contactgegeven/9223241778687485414"}],"permissions":[{"full":"persoon.RPersoonContactgegeven:READ,UPDATE,DELETE:INSTANCE(9223241778687485414)","type":"persoon.RPersoonContactgegeven","operations":["READ","UPDATE","DELETE"],"instances":["INSTANCE(9223241778687485414)"]}],"additionalObjects":{},"contactgegeven":"testmail3@abc.com","soortContactgegeven":{"$type":"persoon.RSoortContactgegeven","links":[{"id":9223241778687488000,"rel":"self","type":"persoon.RSoortContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/soortcontactgegeven/9223241778687488411"}],"permissions":[{"full":"persoon.RSoortContactgegeven:READ:INSTANCE(9223241778687488411)","type":"persoon.RSoortContactgegeven","operations":["READ"],"instances":["INSTANCE(9223241778687488411)"]}],"additionalObjects":{},"code":"Officemail","naam":"Officemail","typeContactgegeven":"Email","selfServiceModus":"TonenEnBewerken","prioriteit":1}}]}  
+ 'profileinfo': {"$type":"persoon.RPersoon","links":[{"id":9223241778686951000,"rel":"self","type":"persoon.RPersoon","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410"}],"permissions":[{"full":"persoon.RPersoon:READ:INSTANCE(9223241778686951410)","type":"persoon.RPersoon","operations":["READ"],"instances":["INSTANCE(9223241778686951410)"]}],"additionalObjects":{},"achternaam":"BOMB","geboortedatum":"1990-01-01","toepassingGeboortedatum":"Geboortejaar","geslacht":"Vrouw","adressen":[{"$type":"persoon.RAdres","links":[{"id":9223241778686959000,"rel":"self","type":"persoon.RAdres","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/adressen/9223241778686958410"},{"id":9223241778686958000,"rel":"koppeling","type":"persoon.RAdres"}],"permissions":[{"full":"persoon.RAdres:READ:INSTANCE(9223241778686958410)","type":"persoon.RAdres","operations":["READ"],"instances":["INSTANCE(9223241778686958410)"]}],"additionalObjects":{},"begindatum":"2019-09-12T00:00:00.000Z","straat":"Langenberglaan","plaats":"EDE","postcode":"6711HK","huisnummer":"12","huisnummerToevoeging":"B","land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31},"geheim":false,"fysiekadres":false,"postadres":false,"gbaAdres":false,"factuuradres":true},{"$type":"persoon.RAdres","links":[{"id":9223241778687487000,"rel":"self","type":"persoon.RAdres","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/adressen/9223241778687487410"},{"id":9223241778687486000,"rel":"koppeling","type":"persoon.RAdres"}],"permissions":[{"full":"persoon.RAdres:READ:INSTANCE(9223241778687487410)","type":"persoon.RAdres","operations":["READ"],"instances":["INSTANCE(9223241778687487410)"]}],"additionalObjects":{},"begindatum":"2019-09-12T00:00:00.000Z","straat":"Langenberglaan","plaats":"EDE","postcode":"6711HK","huisnummer":"12","huisnummerToevoeging":"A","land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31},"geheim":false,"fysiekadres":true,"postadres":false,"gbaAdres":false,"factuuradres":false},{"$type":"persoon.RAdres","links":[{"id":9223241778687487000,"rel":"self","type":"persoon.RAdres","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/adressen/9223241778687487411"},{"id":9223241778687486000,"rel":"koppeling","type":"persoon.RAdres"}],"permissions":[{"full":"persoon.RAdres:READ:INSTANCE(9223241778687487411)","type":"persoon.RAdres","operations":["READ"],"instances":["INSTANCE(9223241778687487411)"]}],"additionalObjects":{},"begindatum":"2019-09-12T00:00:00.000Z","straat":"Langenberglaan","plaats":"EDE","postcode":"6711HK","huisnummer":"12","huisnummerToevoeging":"C","land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31},"geheim":false,"fysiekadres":false,"postadres":true,"gbaAdres":false,"factuuradres":false}],"contactgegevens":[{"$type":"persoon.RPersoonContactgegeven","links":[{"id":9223241778687485000,"rel":"self","type":"persoon.RPersoonContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/contactgegeven/9223241778687485410"}],"permissions":[{"full":"persoon.RPersoonContactgegeven:READ,UPDATE,DELETE:INSTANCE(9223241778687485410)","type":"persoon.RPersoonContactgegeven","operations":["READ","UPDATE","DELETE"],"instances":["INSTANCE(9223241778687485410)"]}],"additionalObjects":{},"contactgegeven":"9856548596","soortContactgegeven":{"$type":"persoon.RSoortContactgegeven","links":[{"id":9223241778682920000,"rel":"self","type":"persoon.RSoortContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/soortcontactgegeven/9223241778682920053"}],"permissions":[{"full":"persoon.RSoortContactgegeven:READ:INSTANCE(9223241778682920053)","type":"persoon.RSoortContactgegeven","operations":["READ"],"instances":["INSTANCE(9223241778682920053)"]}],"additionalObjects":{},"code":"T1","naam":"Telefoon-1","typeContactgegeven":"Telefoon","selfServiceModus":"AlleenTonen","prioriteit":1},"land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31}},{"$type":"persoon.RPersoonContactgegeven","links":[{"id":9223241778687485000,"rel":"self","type":"persoon.RPersoonContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/contactgegeven/9223241778687485411"}],"permissions":[{"full":"persoon.RPersoonContactgegeven:READ,UPDATE,DELETE:INSTANCE(9223241778687485411)","type":"persoon.RPersoonContactgegeven","operations":["READ","UPDATE","DELETE"],"instances":["INSTANCE(9223241778687485411)"]}],"additionalObjects":{},"contactgegeven":"74582658956","soortContactgegeven":{"$type":"persoon.RSoortContactgegeven","links":[{"id":9223241778682920000,"rel":"self","type":"persoon.RSoortContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/soortcontactgegeven/9223241778682920055"}],"permissions":[{"full":"persoon.RSoortContactgegeven:READ:INSTANCE(9223241778682920055)","type":"persoon.RSoortContactgegeven","operations":["READ"],"instances":["INSTANCE(9223241778682920055)"]}],"additionalObjects":{},"code":"T2","naam":"Telefoon-2","typeContactgegeven":"Mobieltelefoon","selfServiceModus":"AlleenTonen","prioriteit":2},"land":{"$type":"persoon.RLand","links":[{"id":185,"rel":"koppeling","type":"persoon.RLand"}],"permissions":[],"additionalObjects":{},"begindatum":"1900-01-01T00:00:00.000Z","code":"6030","naam":"Nederland","landnummer":31}},{"$type":"persoon.RPersoonContactgegeven","links":[{"id":9223241778687485000,"rel":"self","type":"persoon.RPersoonContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/contactgegeven/9223241778687485413"}],"permissions":[{"full":"persoon.RPersoonContactgegeven:READ,UPDATE,DELETE:INSTANCE(9223241778687485413)","type":"persoon.RPersoonContactgegeven","operations":["READ","UPDATE","DELETE"],"instances":["INSTANCE(9223241778687485413)"]}],"additionalObjects":{},"contactgegeven":"testmail2@abc.com","soortContactgegeven":{"$type":"persoon.RSoortContactgegeven","links":[{"id":9223241778687488000,"rel":"self","type":"persoon.RSoortContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/soortcontactgegeven/9223241778687488410"}],"permissions":[{"full":"persoon.RSoortContactgegeven:READ:INSTANCE(9223241778687488410)","type":"persoon.RSoortContactgegeven","operations":["READ"],"instances":["INSTANCE(9223241778687488410)"]}],"additionalObjects":{},"code":"Schoolmail","naam":"Schoolmail","typeContactgegeven":"Email","selfServiceModus":"TonenEnBewerken","prioriteit":1}},{"$type":"persoon.RPersoonContactgegeven","links":[{"id":9223241778687485000,"rel":"self","type":"persoon.RPersoonContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/persoon/9223241778686951410/contactgegeven/9223241778687485414"}],"permissions":[{"full":"persoon.RPersoonContactgegeven:READ,UPDATE,DELETE:INSTANCE(9223241778687485414)","type":"persoon.RPersoonContactgegeven","operations":["READ","UPDATE","DELETE"],"instances":["INSTANCE(9223241778687485414)"]}],"additionalObjects":{},"contactgegeven":"testmail3@abc.com","soortContactgegeven":{"$type":"persoon.RSoortContactgegeven","links":[{"id":9223241778687488000,"rel":"self","type":"persoon.RSoortContactgegeven","href":"http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/soortcontactgegeven/9223241778687488411"}],"permissions":[{"full":"persoon.RSoortContactgegeven:READ:INSTANCE(9223241778687488411)","type":"persoon.RSoortContactgegeven","operations":["READ"],"instances":["INSTANCE(9223241778687488411)"]}],"additionalObjects":{},"code":"Officemail","naam":"Officemail","typeContactgegeven":"Email","selfServiceModus":"TonenEnBewerken","prioriteit":1}}]},
+ 'messages':   {
+    "items": [
+        {
+            "$type": "dashboard.RSelfServiceBericht",
+            "links": [
+                {
+                    "id": 9223241778687493416,
+                    "rel": "self",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/bericht/9223241778687493416"
+                }
+            ],
+            "permissions": [
+                {
+                    "full": "dashboard.RSelfServiceBericht:READ:INSTANCE(9223241778687493416)",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "operations": [
+                        "READ"
+                    ],
+                    "instances": [
+                        "INSTANCE(9223241778687493416)"
+                    ]
+                }
+            ],
+            "additionalObjects": {},
+            "begindatum": "2019-09-13T00:00:00.000Z",
+            "titel": "Test Message1",
+            "bericht": "this is test message 1"
+        },
+        {
+            "$type": "dashboard.RSelfServiceBericht",
+            "links": [
+                {
+                    "id": 9223241778687493415,
+                    "rel": "self",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/bericht/9223241778687493415"
+                }
+            ],
+            "permissions": [
+                {
+                    "full": "dashboard.RSelfServiceBericht:READ:INSTANCE(9223241778687493415)",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "operations": [
+                        "READ"
+                    ],
+                    "instances": [
+                        "INSTANCE(9223241778687493415)"
+                    ]
+                }
+            ],
+            "additionalObjects": {},
+            "begindatum": "2019-09-16T00:00:00.000Z",
+            "titel": "Global Message 5",
+            "bericht": "This is testing message 5"
+        },
+        {
+            "$type": "dashboard.RSelfServiceBericht",
+            "links": [
+                {
+                    "id": 9223241778687493414,
+                    "rel": "self",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/bericht/9223241778687493414"
+                }
+            ],
+            "permissions": [
+                {
+                    "full": "dashboard.RSelfServiceBericht:READ:INSTANCE(9223241778687493414)",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "operations": [
+                        "READ"
+                    ],
+                    "instances": [
+                        "INSTANCE(9223241778687493414)"
+                    ]
+                }
+            ],
+            "additionalObjects": {},
+            "begindatum": "2019-09-15T00:00:00.000Z",
+            "titel": "Global Message 4",
+            "bericht": "This is testing message 4"
+        },
+        {
+            "$type": "dashboard.RSelfServiceBericht",
+            "links": [
+                {
+                    "id": 9223241778687493413,
+                    "rel": "self",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/bericht/9223241778687493413"
+                }
+            ],
+            "permissions": [
+                {
+                    "full": "dashboard.RSelfServiceBericht:READ:INSTANCE(9223241778687493413)",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "operations": [
+                        "READ"
+                    ],
+                    "instances": [
+                        "INSTANCE(9223241778687493413)"
+                    ]
+                }
+            ],
+            "additionalObjects": {},
+            "begindatum": "2019-09-13T00:00:00.000Z",
+            "titel": "Stage update testing",
+            "bericht": "This is&nbsp;Stage update testing."
+        },
+        {
+            "$type": "dashboard.RSelfServiceBericht",
+            "links": [
+                {
+                    "id": 9223241778687493412,
+                    "rel": "self",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/bericht/9223241778687493412"
+                }
+            ],
+            "permissions": [
+                {
+                    "full": "dashboard.RSelfServiceBericht:READ:INSTANCE(9223241778687493412)",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "operations": [
+                        "READ"
+                    ],
+                    "instances": [
+                        "INSTANCE(9223241778687493412)"
+                    ]
+                }
+            ],
+            "additionalObjects": {},
+            "begindatum": "2019-09-13T00:00:00.000Z",
+            "titel": "Global Message 3",
+            "bericht": "This is global message 3 for testing.",
+            "afzender": "GRR"
+        },
+        {
+            "$type": "dashboard.RSelfServiceBericht",
+            "links": [
+                {
+                    "id": 9223241778687493411,
+                    "rel": "self",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/bericht/9223241778687493411"
+                }
+            ],
+            "permissions": [
+                {
+                    "full": "dashboard.RSelfServiceBericht:READ:INSTANCE(9223241778687493411)",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "operations": [
+                        "READ"
+                    ],
+                    "instances": [
+                        "INSTANCE(9223241778687493411)"
+                    ]
+                }
+            ],
+            "additionalObjects": {},
+            "begindatum": "2019-09-16T00:00:00.000Z",
+            "einddatumExclusief": "2019-10-01T00:00:00.000Z",
+            "titel": "Global Message2 for demo",
+            "bericht": "This another testing global message.",
+            "afzender": "GRR"
+        },
+        {
+            "$type": "dashboard.RSelfServiceBericht",
+            "links": [
+                {
+                    "id": 9223241778687493410,
+                    "rel": "self",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "href": "http://rest-eduario.localhost.topicus.nl:8080/eduario/rest/v1/bericht/9223241778687493410"
+                }
+            ],
+            "permissions": [
+                {
+                    "full": "dashboard.RSelfServiceBericht:READ:INSTANCE(9223241778687493410)",
+                    "type": "dashboard.RSelfServiceBericht",
+                    "operations": [
+                        "READ"
+                    ],
+                    "instances": [
+                        "INSTANCE(9223241778687493410)"
+                    ]
+                }
+            ],
+            "additionalObjects": {},
+            "begindatum": "2019-09-13T00:00:00.000Z",
+            "titel": "Global Test Message",
+            "bericht": "Sample global message for demo.",
+            "afzender": "GRR"
+        }
+    ]
+}
+
 }
