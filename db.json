@@ -223,7 +223,7 @@
             {
                 "titel": "Social",
                 "beginDatumTijd": "2019-09-26T05:30:00.000Z",
-                "eindDatumTijd": "2019-09-26T06:55:00.000Z",
+                "eindDatumTijd": "2019-09-26T06:10:00.000Z",
                 "omschrijving": "Basics",
                 "afspraakLocatie": "USA",
                 "afspraakType": {
@@ -235,7 +235,7 @@
             {
                 "titel": "Physics",
                 "beginDatumTijd": "2019-09-24T07:30:00.000Z",
-                "eindDatumTijd": "2019-09-24T08:55:00.000Z",
+                "eindDatumTijd": "2019-09-24T08:10:00.000Z",
                 "omschrijving": "Basics",
                 "afspraakLocatie": "USA",
                 "afspraakType": {
@@ -246,8 +246,8 @@
             },
             {
                 "titel": "Science",
-                "beginDatumTijd": "2019-09-23T01:30:00.000Z",
-                "eindDatumTijd": "2019-09-23T02:15:00.000Z",
+                "beginDatumTijd": "2019-09-23T06:30:00.000Z",
+                "eindDatumTijd": "2019-09-23T07:15:00.000Z",
                 "omschrijving": "Basics",
                 "afspraakLocatie": "USA",
                 "afspraakType": {
