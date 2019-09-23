@@ -118,20 +118,23 @@
                 "$type": "dashboard.RSelfServiceBericht",
                 "additionalObjects": {},
                 "begindatum": "2019-09-13T00:00:00.000Z",
-                "titel": "Test Message1",
-                "bericht": "this is test message 1"
+                "titel": "Toets inhalen",
+                 "afzender": "Yuri Damstra",
+                "bericht": "Hoi Nadia, je mag je toets inhalen aanstande woensdag. Daarna kunnen wij"
             },
             {
                 "$type": "dashboard.RSelfServiceBericht",
                 "begindatum": "2019-09-16T00:00:00.000Z",
-                "titel": "Global Message 5",
-                "bericht": "This is testing message 5"
+                "afzender": "Schoolbericht",
+                "titel": "Re: Stage update",
+                "bericht": "Wij hebben jou update goed ontvangen. Wij willen daarna een vervolg afsp…"
             },
             {
                 "$type": "dashboard.RSelfServiceBericht",
                 "begindatum": "2019-09-15T00:00:00.000Z",
-                "titel": "Global Message 4",
-                "bericht": "This is testing message 4"
+                "afzender": "Johanna van de Broek Messchendorp",
+                "titel": "Werkgroup 2025",
+                "bericht": "Hoi Nadia, De verslag van de laatste vergadering was heel verhelderend na"
             },
             {
                 "$type": "dashboard.RSelfServiceBericht",
