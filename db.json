@@ -228,7 +228,7 @@
                 "beginDatumTijd": "2019-09-26T05:30:00.000Z",
                 "eindDatumTijd": "2019-09-26T06:30:00.000Z",
                 "omschrijving": "Basics",
-                "afspraakLocatie": "USA",
+                "afspraakLocatie": "NL",
                 "afspraakType": {
                     "naam": "OLC",
                     "category": "HOMEWORK"
@@ -237,10 +237,10 @@
             },
             {
                 "titel": "Physics",
-                "beginDatumTijd": "2019-09-24T07:30:00.000Z",
-                "eindDatumTijd": "2019-09-24T08:30:00.000Z",
+                "beginDatumTijd": "2019-09-24T04:30:00.000Z",
+                "eindDatumTijd": "2019-09-24T05:30:00.000Z",
                 "omschrijving": "Basics",
-                "afspraakLocatie": "USA",
+                "afspraakLocatie": "NL",
                 "afspraakType": {
                     "naam": "OLC",
                     "category": "INDIVIDUEEL"
@@ -252,7 +252,7 @@
                 "beginDatumTijd": "2019-09-23T06:30:00.000Z",
                 "eindDatumTijd": "2019-09-23T07:30:00.000Z",
                 "omschrijving": "Basics",
-                "afspraakLocatie": "USA",
+                "afspraakLocatie": "NL",
                 "afspraakType": {
                     "naam": "OLC",
                     "category": "HOMEWORK"
