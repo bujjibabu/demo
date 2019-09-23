@@ -120,21 +120,21 @@
                 "begindatum": "2019-09-13T00:00:00.000Z",
                 "titel": "Toets inhalen",
                  "afzender": "Yuri Damstra",
-                "bericht": "Hoi Nadia, je mag je toets inhalen aanstande woensdag. Daarna kunnen wij"
+                "bericht": "Hoi Nadia, je mag je toets inhalen aanstande woensdag. Daarna kunnen wij..."
             },
             {
                 "$type": "dashboard.RSelfServiceBericht",
                 "begindatum": "2019-09-16T00:00:00.000Z",
                 "afzender": "Schoolbericht",
                 "titel": "Re: Stage update",
-                "bericht": "Wij hebben jou update goed ontvangen. Wij willen daarna een vervolg afsp…"
+                "bericht": "Wij hebben jou update goed ontvangen. Wij willen daarna een vervolg afsp..."
             },
             {
                 "$type": "dashboard.RSelfServiceBericht",
                 "begindatum": "2019-09-15T00:00:00.000Z",
                 "afzender": "Johanna van de Broek Messchendorp",
                 "titel": "Werkgroup 2025",
-                "bericht": "Hoi Nadia, De verslag van de laatste vergadering was heel verhelderend na"
+                "bericht": "Hoi Nadia, De verslag van de laatste vergadering was heel verhelderend na..."
             },
             {
                 "$type": "dashboard.RSelfServiceBericht",
@@ -226,7 +226,7 @@
             {
                 "titel": "Social",
                 "beginDatumTijd": "2019-09-26T05:30:00.000Z",
-                "eindDatumTijd": "2019-09-26T06:10:00.000Z",
+                "eindDatumTijd": "2019-09-26T06:30:00.000Z",
                 "omschrijving": "Basics",
                 "afspraakLocatie": "USA",
                 "afspraakType": {
@@ -238,7 +238,7 @@
             {
                 "titel": "Physics",
                 "beginDatumTijd": "2019-09-24T07:30:00.000Z",
-                "eindDatumTijd": "2019-09-24T08:10:00.000Z",
+                "eindDatumTijd": "2019-09-24T08:30:00.000Z",
                 "omschrijving": "Basics",
                 "afspraakLocatie": "USA",
                 "afspraakType": {
@@ -250,7 +250,7 @@
             {
                 "titel": "Science",
                 "beginDatumTijd": "2019-09-23T06:30:00.000Z",
-                "eindDatumTijd": "2019-09-23T07:15:00.000Z",
+                "eindDatumTijd": "2019-09-23T07:30:00.000Z",
                 "omschrijving": "Basics",
                 "afspraakLocatie": "USA",
                 "afspraakType": {
